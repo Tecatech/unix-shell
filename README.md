@@ -1,2 +1,1 @@
-# unix-shell
-Custom shell implementation
+# Custom shell implementation
